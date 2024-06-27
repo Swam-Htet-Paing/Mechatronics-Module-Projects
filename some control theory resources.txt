@@ -1,0 +1,2 @@
+https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling
+https://lpsa.swarthmore.edu/Representations/SysRepSS.html
